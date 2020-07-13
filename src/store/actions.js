@@ -262,3 +262,7 @@ export const rest_auth_user_partial_updateFailed = error => ({
   type: types.REST_AUTH_USER_PARTIAL_UPDATE_FAILED,
   error
 })
+export const rest_auth_user_partial_updateFailed1 = error => ({
+  type: types.REST_AUTH_USER_PARTIAL_UPDATE_FAILED,
+  error
+})
